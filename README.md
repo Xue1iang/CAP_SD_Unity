@@ -7,6 +7,6 @@ To launch Hector SLAM using UNITY-ROS bridge
 
 Then PLAY UNITY
 
-To launch yolo object detection
+To launch yolov5 object detection
 
     roslaunch yolov5_ros yolov5.launch
