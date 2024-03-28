@@ -3,7 +3,7 @@
 ## Table of contents
 - [Run CAP-SD](#How-to-run-CAP-SD)
 - [Pre-trained YOLO v5 model](#Pre-trained-YOLO-v5-model)
-- [Game？ Simulation✔](#Simulated-nuclear-fuel-pond)
+- [Game<span style="color: red;">？</span> Research <span style="color: green;">✔</span>](#Simulated-nuclear-fuel-pond)
 
 ## How to run CAP-SD
 
