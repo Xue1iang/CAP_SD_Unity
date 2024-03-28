@@ -23,10 +23,10 @@ Last step, launch CAP-SD:
 ## Pre-trained YOLO v5 model
 The trsultd of pre-trained YOLO v5 model has been attached below. More details (like Hyperparameter Configuration) can be found in [yolov5_CAP_SD](yolov5_CAP-SD).
 
-| ![text1](https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/P_curve.png) | ![text2](https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/R_curve.png) |
+| ![text1](/yolov5_CAP-SD/P_curve.png) | ![text2](/yolov5_CAP-SD/R_curve.png) |
 | :-------------------: | :-------------------: |
 |       Precision-Confidence Curve      |       Recall-Confidence Curve       |
-| ![text3](https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/F1_curve.png) |
+| ![text3](/yolov5_CAP-SD/F1_curve.png) |
 |       F1-Confidence Curve      |         
 
 
@@ -34,7 +34,7 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/results.png" style="width:100%; max-width:400px;">
+        <img src="/yolov5_CAP-SD/results.png" style="width:100%; max-width:400px;">
       </td>
     </tr>
     <tr>
@@ -45,6 +45,6 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
   </table>
 </div>
 
-| ![text1](/yolov5_CAP-SD/train_batch1.jpg) | ![text2](/yolov5_CAP-SD/val_batch0_pred.jpg) |
-| :-------------------: | :-------------------: |
-|       Train batch     |       Validation batch       |
+| ![text1](/yolov5_CAP-SD/train_batch1.jpg) |
+| :-------------------: |
+|       Train batch   |
