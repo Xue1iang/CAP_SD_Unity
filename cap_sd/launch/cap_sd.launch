@@ -1,0 +1,4 @@
+<launch>
+ <rosparam file = "/home/oops/catkin_ws/src/cap_sd/config/mallard_sonar.yaml" command="load" />
+ <node name="cap_SD" pkg="cap_sd" type="capSD.py" output="screen" />
+</launch>

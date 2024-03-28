@@ -1,0 +1,7 @@
+# sonar_image_width: 640
+sonar_image_width: 640
+sonar_image_height: 480
+horizontal_range: 60
+multi-beam_sonar_max_range: 20
+q_is: [1, 0, 0, 0] #(x,y,z,w)
+t_is: [0,0,0]
