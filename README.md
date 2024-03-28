@@ -65,5 +65,6 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
 
 ## Video
 Play me 👇
+
 [![Watch the video](/fig/cover.png)](https://www.youtube.com/watch?v=Is7qyu9I0gU)
 
