@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [Run CAP-SD](#How-to-run-CAP-SD)
-- [Pre-trained YOLO v5 model](#pretrainedyolov5model)
+- [Pre-trained YOLO v5 model](#Pre-trained-YOLO-v5-model)
 
 ## How to run CAP-SD
 
