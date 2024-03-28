@@ -21,4 +21,8 @@ Last step, launch CAP-SD:
     roslaunch cap cap_sd.launch
 
 ## Pre-trained YOLO v5 model
-The trsultd of pre-trained YOLO v5 model has been attached below.
+The trsultd of pre-trained YOLO v5 model has been attached below. More details (like Hyperparameter Configuration) can be found in [yolov5_CAP_SD](yolov5_CAP-SD).
+
+| ![text1](https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/P_curve.png) | ![text2](https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/R_curve.png) |
+| :-------------------: | :-------------------: |
+|       Precision-Confidence Curve      |       Recall-Confidence Curve       |
