@@ -31,6 +31,6 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
 
 
 <div>
-  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/results.png" width="100" style="margin-right: 10px;">
+  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/results.png" width="100%" style="margin-right: 10px;">
 
 </div>
