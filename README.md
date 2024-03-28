@@ -45,6 +45,7 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
   </table>
 </div>
 
-| ![text1](/yolov5_CAP-SD/train_batch1.jpg) |
-| :-------------------: |
-|       Train batch   |
+<p align="center">
+  <img src="/yolov5_CAP-SD/train_batch1.jpg" style="width: 50%;">
+</p>
+<div align="center">Train batch</div>
