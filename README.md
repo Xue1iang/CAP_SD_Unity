@@ -19,31 +19,5 @@ To launch the pre-trained yolov5 object detection model:
 Last step, launch CAP-SD:
 
     roslaunch cap cap_sd.launch
-dddddddddddddddddddddddddd
-d
-d
-d
-d
-d
-d
-d
-d
-d
-
-//
-//
-//
-//
-
-d
-d
-d
-
-d
-d
-
-d
-
-d
 
 ## Pre-trained YOLO v5 model
