@@ -1,9 +1,9 @@
 # CAP_SD_Simulation
 
 ## Table of contents
-- [Code](#codes)
+- [Code](#How to run CAP-SD)
 
-## codes
+## How to run CAP-SD
 
 To launch Hector SLAM using UNITY-ROS bridge
 
