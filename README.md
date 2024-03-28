@@ -5,6 +5,7 @@
 - [All the results](#Results)
 - [Pre-trained YOLO v5 model](#Pre-trained-YOLO-v5-model)
 - [Game<span style="color: red;">？</span> Research <span style="color: green;">✔</span>](#Simulated-nuclear-fuel-pond)
+- [Video](#Video)
 
 ## How to run CAP-SD
 
@@ -62,6 +63,6 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
 | :-------------------: | :-------------------: |
 |       Val_batch_labels        |       Val_batch_predi     |
 
-
+## Video
 [![Watch the video](/fig/cover.png)](https://www.youtube.com/watch?v=Is7qyu9I0gU)
 
