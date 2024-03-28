@@ -30,7 +30,23 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
 |       F1-Confidence Curve      |         
 
 
-<div>
+<div class="table-style">
   <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/results.png" width="100%" style="margin-right: 10px;">
 
 </div>
+
+<style>
+.table-style {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+.table-style img {
+  display: block;
+  width: 100%;
+}
+
+.table-style img:last-child {
+  margin-right: 0;
+}
+</style>
