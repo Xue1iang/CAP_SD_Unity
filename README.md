@@ -25,7 +25,6 @@ Last step, launch CAP-SD:
 
 ## Results
 
-
 ## Simulated nuclear fuel pond
 
 ## Pre-trained YOLO v5 model
