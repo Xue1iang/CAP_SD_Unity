@@ -28,5 +28,9 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
 |       Precision-Confidence Curve      |       Recall-Confidence Curve       |
 | ![text3](https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/F1_curve.png) |
 |       F1-Confidence Curve      |         
-|![text4](https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/results.png)|
-|Result|
+
+
+<div>
+  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/results.png" width="100" style="margin-right: 10px;">
+
+</div>
