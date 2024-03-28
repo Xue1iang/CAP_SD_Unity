@@ -1,7 +1,7 @@
 # CAP_SD_Simulation
 
 ## Table of contents
-- [Code](#How to run CAP-SD)
+- [Run CAP-SD](#How to run CAP-SD)
 
 ## How to run CAP-SD
 
