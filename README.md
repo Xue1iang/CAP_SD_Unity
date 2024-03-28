@@ -21,3 +21,4 @@ Last step, launch CAP-SD:
     roslaunch cap cap_sd.launch
 
 ## Pre-trained YOLO v5 model
+The trsultd of pre-trained YOLO v5 model has been attached below.
