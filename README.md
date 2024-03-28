@@ -44,3 +44,34 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
     </tr>
   </table>
 </div>
+
+<div style="width: 100%;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/P_curve.png" style="width:100%; max-width:400px;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/R_curve.png" style="width:100%; max-width:400px;">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/F1_curve.png" style="width:100%; max-width:400px;">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Precision-Confidence Curve
+      </td>
+      <td align="center">
+        Recall-Confidence Curve
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        F1-Confidence Curve
+      </td>
+    </tr>
+  </table>
+</div>
