@@ -1,4 +1,4 @@
-# CAP_SD_Simulation
+# CAP-SD Simulation
 
 ## Table of contents
 - [Run CAP-SD](#How-to-run-CAP-SD)
