@@ -39,7 +39,7 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
     </tr>
     <tr>
       <td align="center">
-        <strong>This is the results of the CAP-SD project using YOLOv5</strong>
+        <strong>Results customized YOLOv5 model</strong>
       </td>
     </tr>
   </table>
