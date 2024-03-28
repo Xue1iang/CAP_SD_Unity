@@ -34,12 +34,12 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/P_curve.png" style="width:100%; max-width:400px;">
+        <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/yolov5_CAP-SD/results.png" style="width:100%; max-width:400px;">
       </td>
     </tr>
     <tr>
       <td align="center">
-        <strong>Precision-Confidence Curve</strong>
+        <strong>This is the results of the CAP-SD project using YOLOv5</strong>
       </td>
     </tr>
   </table>
