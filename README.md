@@ -4,7 +4,7 @@
 - [Run CAP-SD](#How-to-run-CAP-SD)
 - [All the results](#Results)
 - [Pre-trained YOLO v5 model](#Pre-trained-YOLO-v5-model)
-- [Game<span style="color: red;">？</span> Research <span style="color: green;">✔</span>](#Simulated-nuclear-fuel-pond)
+- [Game<span style="color: red;"> ？</span> Research <span style="color: green;">✔</span>](#Simulated-nuclear-fuel-pond)
 - [Video](#Video)
 
 ## How to run CAP-SD
@@ -24,6 +24,9 @@ Last step, launch CAP-SD:
     roslaunch cap cap_sd.launch
 
 ## Results
+
+<img src="https://example.com/image.png" alt="示例图片" width="200"/>
+
 
 ## Simulated nuclear fuel pond
 
