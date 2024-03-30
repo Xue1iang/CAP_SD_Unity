@@ -85,8 +85,8 @@ Last step, launch CAP-SD:
 
 ## Simulated nuclear fuel pond
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github.gif" alt="GIF 1" style="width: auto; height: 100px; margin-right: 10px;">
-  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github1.gif" alt="GIF 2" style="width: auto; height: 100px;">
+  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github.gif" alt="GIF 1" style="width: auto; height: 500px; margin-right: 10px;">
+  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github1.gif" alt="GIF 2" style="width: auto; height: 500px;">
 </div>
 
 
