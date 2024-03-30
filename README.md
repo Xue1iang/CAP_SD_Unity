@@ -24,6 +24,25 @@ Last step, launch CAP-SD:
     roslaunch cap cap_sd.launch
 
 ## Results
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
+      Bouncing trajectory
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/bounce_capsd_3dtraj.png" alt="Bouncing trajectory" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/bounce_capsd.png" alt="bouncexy" width="500">
+    </td>
+  </tr>
+</table>
+
+
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
@@ -38,7 +57,7 @@ Last step, launch CAP-SD:
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/lawnmower_capsd.png" alt="randomxy" width="500">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/lawnmower_capsd.png" alt="lawnmowerxy" width="500">
     </td>
   </tr>
 </table>
