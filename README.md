@@ -85,8 +85,8 @@ Last step, launch CAP-SD:
 
 ## Simulated nuclear fuel pond
 <div style="display: flex; justify-content: center;">
-  <img src="GIF1_URL" alt="GIF 1" style="width: 48%; margin-right: 2%;">
-  <img src="GIF2_URL" alt="GIF 2" style="width: 48%;">
+  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github.gif" alt="GIF 1" style="width: 48%; margin-right: 2%;">
+  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github1.gif" alt="GIF 2" style="width: 48%;">
 </div>
 
 ## Pre-trained YOLO v5 model
