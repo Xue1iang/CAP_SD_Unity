@@ -83,12 +83,11 @@ Last step, launch CAP-SD:
 </table>
 
 
-
-
-
-
-
 ## Simulated nuclear fuel pond
+<div style="display: flex; justify-content: center;">
+  <img src="GIF1_URL" alt="GIF 1" style="width: 48%; margin-right: 2%;">
+  <img src="GIF2_URL" alt="GIF 2" style="width: 48%;">
+</div>
 
 ## Pre-trained YOLO v5 model
 The trsultd of pre-trained YOLO v5 model has been attached below. More details (like Hyperparameter Configuration) can be found in [yolov5_CAP_SD](yolov5_CAP-SD).
