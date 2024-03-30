@@ -25,7 +25,10 @@ Last step, launch CAP-SD:
 
 ## Results
 
-<img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/random_capsd_3dtraj.png" alt="Random trajectory" width="200"/>
+<p align="center">
+  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/random_capsd_3dtraj.png" alt="Random trajectory" width="400"/>
+</p>
+
 
 
 ## Simulated nuclear fuel pond
