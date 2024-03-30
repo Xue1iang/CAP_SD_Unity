@@ -62,6 +62,8 @@ Last step, launch CAP-SD:
   </tr>
 </table>
 
+<hr style="border: 2px solid #000; margin: 20px 0;"/>
+
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
