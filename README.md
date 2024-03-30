@@ -4,7 +4,7 @@
 - [Run CAP-SD](#How-to-run-CAP-SD)
 - [All the results](#Results)
 - [Pre-trained YOLO v5 model](#Pre-trained-YOLO-v5-model)
-- [Game❓Research <span style="color: green;">✔</span>](#Simulated-nuclear-fuel-pond)
+- [Game❓Research ✅](#Simulated-nuclear-fuel-pond)
 - [Video](#Video)
 - [Unity assets](#Unity-asset)
 
