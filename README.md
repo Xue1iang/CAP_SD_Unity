@@ -84,10 +84,30 @@ Last step, launch CAP-SD:
 
 
 ## Simulated nuclear fuel pond
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github.gif" alt="GIF 1" style="width: auto; height: 300px;margin-right: 10px;">
-  <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github1.gif" alt="GIF 2" style="width: auto; height: 300px;">
-</div>
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
+      Nuke in Counter-strike 2
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github.gif" alt="GIF 1" style="width: auto; height: 300px;margin-right: 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
+      Simulated nuclear fuel pond used in CAP-SD
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/capsd_github1.gif" alt="GIF 2" style="width: auto; height: 300px;">
+    </td>
+  </tr>
+</table>
+
 
 
 ## Pre-trained YOLO v5 model
