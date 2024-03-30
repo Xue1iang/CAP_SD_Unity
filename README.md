@@ -26,17 +26,21 @@ Last step, launch CAP-SD:
 ## Results
 
 <table style="margin-left: auto; margin-right: auto;">
+  <caption style="text-align: center; font-size: 20px; font-weight: bold; margin-bottom: 20px;">
+    Random trajectory
+  </caption>
   <tr>
     <td align="center">
-      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/random_capsd_3dtraj.png" alt="Random trajectory" width="600"/>
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/random_capsd_3dtraj.png" alt="Random trajectory" width="500"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/random_capsd.png" alt="randomxy" width="600">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/random_capsd.png" alt="randomxy" width="500">
     </td>
   </tr>
 </table>
+
 
 
 
