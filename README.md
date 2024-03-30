@@ -28,6 +28,24 @@ Last step, launch CAP-SD:
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
+      Lawnmower trajectory
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/lawnmower_capsd_3dtraj.png" alt="Lawnmower trajectory" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Xue1iang/IROS2024_CAP-SD/blob/main/fig/lawnmower_capsd.png" alt="randomxy" width="500">
+    </td>
+  </tr>
+</table>
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td align="center" style="font-size: 20px; font-weight: bold; padding: 10px;">
       Random trajectory
     </td>
   </tr>
