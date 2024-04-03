@@ -154,4 +154,5 @@ The trsultd of pre-trained YOLO v5 model has been attached below. More details (
 
 ## Unity asset
 To access to the Unity files, please contact xueliang.cheng@manchester.ac.uk
+(Unity editor version 2021.3.32f1)
 
