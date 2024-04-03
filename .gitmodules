@@ -1,3 +1,6 @@
 [submodule "grpc_ros_adapter"]
 	path = grpc_ros_adapter
 	url = https://github.com/MARUSimulator/grpc_ros_adapter.git
+[submodule "yolov5_ros"]
+	path = yolov5_ros
+	url = https://github.com/mats-robotics/yolov5_ros.git
