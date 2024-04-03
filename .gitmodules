@@ -1,0 +1,3 @@
+[submodule "grpc_ros_adapter"]
+	path = grpc_ros_adapter
+	url = https://github.com/MARUSimulator/grpc_ros_adapter.git
