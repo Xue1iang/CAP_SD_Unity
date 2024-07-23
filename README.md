@@ -10,7 +10,7 @@
 
 ## How to run CAP-SD
 
-To launch  UNITY-ROS bridge (including Hector SLAM8)
+To launch  UNITY-ROS bridge (including Hector SLAM)
 
     roslaunch grpc_ros_adapter launch_server.launch
 
